@@ -1,0 +1,164 @@
+[[RocksDB]]
+arch = "aarch64"
+git-tree-sha1 = "5146f2ffdb938d8eb5b367473bd665944393f2a4"
+os = "macos"
+
+    [[RocksDB.download]]
+    sha256 = "074076203320a6d98df85df41001e49910cf215fd05fa8a86c9be003f1870937"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.aarch64-apple-darwin.tar.gz"
+[[RocksDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bbe7ab9b109cce9ac0819ffb9b8a7af065bc4d51"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "261e15076c41ac72b6672cd1789129dcd9457c115ef635cb986eec1d301eb54d"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[RocksDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "afc57e30c646e25e2fb02705a042479715cee74f"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "11cef015f0e3ed0387d1ef57ec14b412f38ce773c49928a90a9000a42703c237"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[RocksDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15f5176d2fe136d040f290180caad82c69c1b647"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "15af39e61225bba372696e208bc7258827334c2e9a0da5c288400b88521ebaee"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.aarch64-linux-musl-cxx03.tar.gz"
+[[RocksDB]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "671ec4248384c24f98adbd5c2d0626af048fc6d0"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "9c054a3ad370cde50442ee3d7720d9dc23266902ef1f3d096dc82297b37ba541"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.aarch64-linux-musl-cxx11.tar.gz"
+[[RocksDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60ada84b06c678f68e1d66169cbcaceaac651a9f"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "5c5e29e5e508678d6e5db30479c620097aead5c11e51643311189fafb80089c1"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.i686-linux-gnu-cxx03.tar.gz"
+[[RocksDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "729c7c7bb717da87688cc6b15a6166a91010f765"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "94dc1c671422c61553ddb6be903d12fdc9907dc648fc5c0a2cdf059629c319ee"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.i686-linux-gnu-cxx11.tar.gz"
+[[RocksDB]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06c97af81c519d4116e3648f76b564d79a22ec55"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "a45ff8020d10aceb57ed80e7bbe5e83b2d449aee07ac04fa1164ba6454e268cc"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.i686-linux-musl-cxx03.tar.gz"
+[[RocksDB]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5080b30631a88299ebe1ca7350ee177586fa948e"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "0846e5a25df8079ba5dd4935e569861490428c2999ab406b4b6d8fbfb8591105"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.i686-linux-musl-cxx11.tar.gz"
+[[RocksDB]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8b33f546ea3fa72f168e0eab619239a3d861e32"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "a8ed2a9ee1b48e5ba1c2516c9db113b01c5e4251f7717ef34e516443f60fa9ab"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[RocksDB]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "657fdf66fa733ebb131efa98bc95eb0b6b8587b3"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "66582ffd61ed87d511a8a5d6a8e19d9ce754337ce3fa8b41ad0ddda455c206aa"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+git-tree-sha1 = "719ec61b5bca3513fd4e2cd34a72d44133214686"
+os = "macos"
+
+    [[RocksDB.download]]
+    sha256 = "f45e4429845689d0b76e86021a9770c4ce8df44490e6065d4067235886abd84d"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-apple-darwin.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "262f51cdf1ad81554c02b2ca9ec95c9a2b224352"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "af66e2a3df76320c4ca62a64a897eed510fabad24faa718ea92ed850844e7b77"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c7997dcb458278acfcbf66fb8157e83022448a3"
+libc = "glibc"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "07d798dc3f269dba36fc7de2a9f7cc8f732ea2f93fbfbd4372f77f8c8966ec5e"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68259519c4ed3c574c89dc0dff48c7b8a3c6486c"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "7873a5d30a60fc12eac7318972eac4baa6ab0bcf5f7f11148221bfff01f28596"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-linux-musl-cxx03.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8fd1ee58172fbeda451ccc8a58eb8a86c3960d7"
+libc = "musl"
+os = "linux"
+
+    [[RocksDB.download]]
+    sha256 = "94450785ccb868a5de79fe86f2c6fcffad5c0c0f0dd5964468665b87a3693d41"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-linux-musl-cxx11.tar.gz"
+[[RocksDB]]
+arch = "x86_64"
+git-tree-sha1 = "8e2ab59c6ceec4519bdde61a8854d5aac9871bac"
+os = "freebsd"
+
+    [[RocksDB.download]]
+    sha256 = "59364ecb21f8e4c35bedc67cf9aff800a1e6339305a95201d8191e0870e1dcdb"
+    url = "https://github.com/JuliaBinaryWrappers/RocksDB_jll.jl/releases/download/RocksDB-v8.9.1+0/RocksDB.v8.9.1.x86_64-unknown-freebsd.tar.gz"
